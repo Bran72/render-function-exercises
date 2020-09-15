@@ -15,5 +15,8 @@
     "jest": "^26.4.2",
     "jsdom": "^16.4.0",
     "serve": "^11.3.2"
+  },
+  "dependencies": {
+    "gitmoji-cli": "^3.2.10"
   }
 }
